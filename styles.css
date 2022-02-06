@@ -111,6 +111,20 @@ img {
   color: var(--color-white);
   font-size: var(--fs-md);
   font-family: var(--ff-monospace);
+  margin-right: 2rem;
+}
+
+.resume-link {
+  background-color: var(--color-red-hover);
+  color: var(--color-white);
+  font-size: var(--fs-md);
+  font-family: var(--ff-monospace);
+  padding: 0.5rem 1.5rem;
+}
+
+.resume-link:hover {
+  background-color: var(--color-red);
+  color: var(--color-white);
 }
 
 /* MAIN PAGE WRAPPER */
@@ -229,6 +243,12 @@ section {
   color: var(--color-yellow);
   font-weight: 600;
   line-height: 1.2;
+}
+
+.h4 {
+  font-size: clamp(18px, 2vw, 20px);
+  font-weight: 400;
+  padding-bottom: 15px;
 }
 
 .about-text {
