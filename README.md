@@ -1,4 +1,4 @@
-# [www.coreymccoy.com](http://www.coreymccoy.com)
+# [Freelance Portfolio](http://www.coreymccoy.com)
 
 ## Basic Web Dev Stack
 
